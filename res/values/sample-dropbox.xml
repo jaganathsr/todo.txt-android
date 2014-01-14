@@ -31,9 +31,9 @@ The dropbox_consumer_key value must start with 'db-'
 
 <resources>
 
-    <!--
-    <string name="dropbox_consumer_key">Enter your Dropbox app key here</string>
-    <string name="dropbox_consumer_secret">Enter your Dropbox app secret here</string>
-    -->
+<!-- 
+    <string name="dropbox_consumer_key">db-vdi0jjhkgrglyz7</string>
+    <string name="dropbox_consumer_secret">91mxhibtwoss782</string>
+-->
 
 </resources>

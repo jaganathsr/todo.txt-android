@@ -27,7 +27,7 @@ You should have received a copy of the GNU General Public License along with Tod
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <uses-sdk android:minSdkVersion="3" />
+    <uses-sdk android:minSdkVersion="19" />
 
     <application
         android:icon="@drawable/todotxt_touch_icon"
