@@ -1,7 +1,5 @@
 This is a fork of Gina Trapani's excellent Todo.txt project. My goal is to get it working with box.com as I do not use Dropbox and have a 50GB free account with Box.com!
 
---Jaganath
-
 # Todo.txt for Android
 
 The official Todo.txt Android application by [Gina Trapani](http://ginatrapani.org) and [the Todo.txt community](http://groups.yahoo.com/group/todotxt/) designed to manage your [todo.txt file](http://todotxt.com) stored in [Dropbox](http://dropbox.com).
